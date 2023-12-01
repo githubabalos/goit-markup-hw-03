@@ -36,6 +36,9 @@ span{
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-decoration: none;
+    padding: 24px;
+    display: flex;
+    gap: 40px;
 }
 
 .list .first:focus , .list .first:hover{
