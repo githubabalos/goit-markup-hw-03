@@ -8,7 +8,7 @@
     width: 1158px;
 }
 
-.visually-hidden .hidden{
+.hidden{
     position: absolute;
     width: 1px;
     height: 1px;
@@ -161,10 +161,13 @@ span{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .team-bg{
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
 }
 
 .footer{
@@ -254,5 +257,12 @@ span{
 .images{
     display: flex;
     gap: 24px;
+}
+
+.image-bullets{
     width: calc((100% - 48px) / 3);
+}
+
+.fourth-section{
+    padding: 120px;
 }
