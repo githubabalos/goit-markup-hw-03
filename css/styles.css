@@ -17,6 +17,7 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
+    margin-right: 76px;
 }
 
 span{
@@ -171,6 +172,11 @@ span{
 .nav-bar{
     display: flex;
     width: 1158px;
-    margin: 0;
-    padding: 0 15px 0 15px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.logo-menu{
+    display: flex;
+    align-items: center;
 }
