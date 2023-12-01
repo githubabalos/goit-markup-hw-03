@@ -208,11 +208,11 @@ span{
 
 .offers{
     gap: 24px;
+    display: flex;
 }
 
 .bullets{
-    width: 12px;
-    display: flex;
+    width: 66px;
 }
 
 .first-section{
