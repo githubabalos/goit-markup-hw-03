@@ -123,6 +123,7 @@ span{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .fourth-section{
@@ -221,4 +222,8 @@ span{
 
 .second-section{
     padding: 120px 0;
+}
+
+.third-section{
+    padding-bottom: 120px;
 }
