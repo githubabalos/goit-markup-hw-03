@@ -204,3 +204,19 @@ span{
     display: flex;
     gap: 40px;
 }
+
+.offers{
+    gap: 24px;
+}
+
+.bullets{
+    width: 42px;
+}
+
+.first-section{
+    padding: 188px 0;
+}
+
+.second-section{
+    padding: 120px 0;
+}
