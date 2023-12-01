@@ -166,6 +166,9 @@ span{
 
 .team-bg{
     background-color: #FFFFFF;
+}
+
+.team{
     display: flex;
     gap: 24px;
 }
