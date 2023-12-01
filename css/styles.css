@@ -213,7 +213,7 @@ span{
 }
 
 .bullets{
-    width: 66px;
+    width: 232px;
 }
 
 .first-section{
@@ -226,4 +226,9 @@ span{
 
 .third-section{
     padding-bottom: 120px;
+}
+
+.image-bullets{
+    display: flex;
+    gap: 24px;
 }
