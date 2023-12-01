@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
   }
+
+.container{
+    width: 1158px;
+}
+
 :root{
     --background: #FFFFFF;
 }
@@ -192,7 +197,6 @@ span{
 
 .nav-bar{
     display: flex;
-    width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
 }
