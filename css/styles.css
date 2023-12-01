@@ -180,3 +180,8 @@ span{
     display: flex;
     align-items: center;
 }
+
+.menu{
+    display: flex;
+    gap: 40px;
+}
