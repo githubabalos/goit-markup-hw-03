@@ -169,6 +169,8 @@ span{
 }
 
 .head-styles{
-    display: flex ruby-text-container;
+    display: flex;
     width: 1158px;
+    margin: 0;
+    padding: 0 15px 0 15px;
 }
