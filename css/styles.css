@@ -218,7 +218,7 @@ span{
 }
 
 .bullets{
-    width: 232px;
+    width: calc((100% - 72px) / 4);
 }
 
 .first-section{
