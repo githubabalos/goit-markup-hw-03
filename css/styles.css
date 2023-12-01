@@ -164,11 +164,11 @@ span{
     text-decoration: none;
 }
 
-.body-head{
+.head{
     border-bottom: 1px solid #e7e9fc;
 }
 
-.head{
+.nav-bar{
     display: flex;
     width: 1158px;
     margin: 0;
