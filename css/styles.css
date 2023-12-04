@@ -46,6 +46,8 @@ img{
     color: #4d5ae5;
     text-decoration: none;
     margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 span{
@@ -179,6 +181,7 @@ span{
 
 .footer{
     background-color: #2e2f42;
+    padding: 100x 0;
 }
 
 .studio{
@@ -189,6 +192,7 @@ span{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 
 .studio-port{
