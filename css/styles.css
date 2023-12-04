@@ -223,6 +223,7 @@ span{
 
 .default{
     text-decoration: none;
+    width: calc((100% - 48px) / 3);
 }
 
 .head{
@@ -317,6 +318,7 @@ span{
 
 .port-section{
     padding-top: 96px;
+    padding-bottom: 120px;
 }
 
 .port-list{
@@ -324,4 +326,11 @@ span{
     justify-content: center;
     gap: 24px;
     margin-bottom: 72px;
+}
+
+.port-second-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
 }
