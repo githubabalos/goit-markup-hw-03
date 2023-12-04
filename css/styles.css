@@ -289,17 +289,28 @@ span{
 
 /* portfolio css hw-3 */
 
-.header{
+.port-head{
     border-bottom: 1px solid #e7e9fc;
 }
 
 .div{
     display: flex;
     width: 1158px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0 15px;
 }
 
 .nav{
+    display: flex;
     align-items: center;
+}
+
+.port-menu{
+    display: flex;
+    gap: 40px;
+}
+
+.port-info{
+    display: flex;
+    gap: 40px;
 }
